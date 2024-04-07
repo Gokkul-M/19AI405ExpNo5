@@ -37,7 +37,7 @@ Feedback is provided in terms of heuristic function
 
 <hr>
 <h2>Program :</h2>
-<py-script>
+<pre><code>
  import random
 import string
 def generate_random_solution(answer):
@@ -73,9 +73,10 @@ def SimpleHillClimbing():
 #print(generate_random_solution(answer))
 #solution=generate_random_solution(answer)
 #print(evaluate(solution,answer))
-SimpleHillClimbing() </py-script>
+SimpleHillClimbing() </code></pre>
 <h2>Sample String:</h2> Artificial Intelligence
 <h2>Output:</h2>
+         <code>
 ['\\', 'b', 'R', '.', '+', '_', 'n', '4', '_', '_', 'E', '$', '#', '\\', '2', '#', '-', '5', 'X', '\x0b', 'y', 'L', '&']
 Score: 898  Solution :  \bR.+_n4__E$#\2#-5XyL&
 ['\\', 'b', 'R', '.', '+', '_', 'n', '4', '_', '_', 'E', '$', '#', '\\', '2', 'v', '-', '5', 'X', '\x0b', 'y', 'L', '&']
@@ -22612,3 +22613,4 @@ Score: 1  Solution :  Artificial Imtelligence
 Score: 1  Solution :  Artificial Imtelligence
 ['A', 'r', 't', 'i', 'f', 'i', 'c', 'i', 'a', 'l', ' ', 'I', 'n', 't', 'e', 'l', 'l', 'i', 'g', 'e', 'n', 'c', 'e']
 Score: 0  Solution :  Artificial Intelligence
+                                                                         </code>
