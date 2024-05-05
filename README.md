@@ -22614,3 +22614,5 @@ Score: 1  Solution :  Artificial Imtelligence
 ['A', 'r', 't', 'i', 'f', 'i', 'c', 'i', 'a', 'l', ' ', 'I', 'n', 't', 'e', 'l', 'l', 'i', 'g', 'e', 'n', 'c', 'e']
 Score: 0  Solution :  Artificial Intelligence
                                                                          </code>
+<H3>Result:</H3>
+<p>Thus,the Program is excecuted.</p>
